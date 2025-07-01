@@ -17,6 +17,10 @@
             },
             }
         ```
+
+    - Once you have added your db config s listed above, go to the src folder from you terminal and execute `npx sequelize db:create`
+
+
     ## Folder Structure of the Project
 
     -src/
